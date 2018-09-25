@@ -1,0 +1,1 @@
+{"expected":"ERROR","dependentTest":"io.elasticjob.lite.internal.failover.FailoverServiceTest.assertGetLocalFailoverItemsIfShutdown","deps":["io.elasticjob.lite.internal.instance.ShutdownListenerManagerTest.assertRemoveLocalInstancePathForReconnectedRegistryCenter"]}

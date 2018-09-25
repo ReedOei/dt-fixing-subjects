@@ -1,0 +1,1 @@
+{"expected":"PASS","dependentTest":"io.elasticjob.lite.event.rdb.JobEventRdbSearchTest.assertFindJobStatusTraceEventsWithTime","deps":["io.elasticjob.lite.reg.zookeeper.ZookeeperElectionServiceTest.assertContend"]}

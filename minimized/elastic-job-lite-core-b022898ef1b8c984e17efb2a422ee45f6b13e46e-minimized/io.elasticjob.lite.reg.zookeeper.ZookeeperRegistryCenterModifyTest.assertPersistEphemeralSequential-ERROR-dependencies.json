@@ -1,0 +1,1 @@
+{"expected":"ERROR","dependentTest":"io.elasticjob.lite.reg.zookeeper.ZookeeperRegistryCenterModifyTest.assertPersistEphemeralSequential","deps":["io.elasticjob.lite.reg.zookeeper.ZookeeperRegistryCenterModifyTest.assertPersistSequential"]}

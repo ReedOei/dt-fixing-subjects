@@ -1,0 +1,1 @@
+{"expected":"ERROR","dependentTest":"io.elasticjob.lite.internal.instance.InstanceNodeTest.assertGetLocalInstancePath","deps":["io.elasticjob.lite.internal.instance.InstanceNodeTest.assertIsLocalInstancePath","io.elasticjob.lite.internal.instance.ShutdownListenerManagerTest.assertUpdateLocalInstancePath"]}

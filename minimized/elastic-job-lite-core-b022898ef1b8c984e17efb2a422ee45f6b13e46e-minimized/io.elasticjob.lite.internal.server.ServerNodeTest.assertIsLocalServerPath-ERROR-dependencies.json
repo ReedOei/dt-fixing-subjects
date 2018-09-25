@@ -1,0 +1,1 @@
+{"expected":"ERROR","dependentTest":"io.elasticjob.lite.internal.server.ServerNodeTest.assertIsLocalServerPath","deps":["io.elasticjob.lite.internal.server.ServerNodeTest.assertIsNotLocalServerPath","io.elasticjob.lite.integrate.std.dataflow.StreamingDataflowElasticJobForNotMonitorTest.assertJobInit"]}

@@ -1,0 +1,1 @@
+{"expected":"PASS","dependentTest":"io.elasticjob.lite.internal.sharding.ShardingListenerManagerTest.assertListenServersChangedJobListenerWhenIsInstanceChangeButJobInstanceIsShutdown","deps":[]}

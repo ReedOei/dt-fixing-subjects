@@ -1,0 +1,1 @@
+{"expected":"PASS","dependentTest":"io.elasticjob.lite.internal.election.ElectionListenerManagerTest.assertLeaderElectionWhenRemoveLeaderInstancePathWithAvailableServerButJobInstanceIsShutdown","deps":[]}

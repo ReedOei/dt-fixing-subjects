@@ -1,0 +1,1 @@
+{"expected":"ERROR","dependentTest":"io.elasticjob.lite.internal.sharding.ShardingListenerManagerTest.assertListenServersChangedJobListenerWhenIsInstanceChangeButJobInstanceIsShutdown","deps":["io.elasticjob.lite.internal.instance.ShutdownListenerManagerTest.assertRemoveLocalInstancePath"]}
