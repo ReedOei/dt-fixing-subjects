@@ -1,0 +1,1 @@
+{"expected":"ERROR","dependentTest":"org.apache.jackrabbit.oak.plugins.blob.datastore.BlobIdTrackerClusterSharedTest.addRetrieveCluster","deps":["org.apache.jackrabbit.oak.plugins.blob.datastore.DataStoreUtils.testPropertySetup"]}
